@@ -1,0 +1,6 @@
+# Ignore data and models
+data/
+model.joblib
+__pycache__/
+*.pyc
+.env
